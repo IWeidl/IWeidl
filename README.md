@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🕴️ [LinkedIn](https://www.linkedin.com/in/isaiah-weidl/)
+
+![IWeidl GitHub stats](https://github-readme-stats.vercel.app/api?username=iweidl&show_icons=true)
+![IWeidl Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iweidl&layout=compact)
